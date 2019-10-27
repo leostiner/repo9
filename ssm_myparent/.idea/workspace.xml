@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4be23370-262c-443f-b66c-0a7f06ec3694" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__com_alibaba_fastjson_1_2_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__com_google_guava_guava_24_0_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__com_rabbitmq_http_client_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__com_squareup_okio_okio_1_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__io_netty_netty_buffer_4_1_23_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__io_netty_netty_codec_4_1_23_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_23_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_23_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__io_netty_netty_common_4_1_23_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__io_netty_netty_handler_4_1_23_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_23_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__io_netty_netty_resolver_4_1_23_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__io_netty_netty_transport_4_1_23_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_1_23_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_23_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__io_projectreactor_ipc_reactor_netty_0_7_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__io_projectreactor_reactor_core_3_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__io_springfox_springfox_core_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__io_springfox_springfox_schema_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__io_springfox_springfox_spi_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__io_swagger_swagger_models_1_5_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__net_lingala_zip4j_zip4j_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_56.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_56.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_hibernate_hibernate_core_5_2_16_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_9_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_javassist_javassist_3_22_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_jboss_jandex_2_0_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_mapstruct_mapstruct_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_mongodb_bson_3_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_mongodb_mongo_java_driver_3_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_projectlombok_lombok_1_16_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_reflections_reflections_0_9_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_2_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_2_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_amqp_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_2_0_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_security_spring_security_jwt_1_0_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_spring_aop_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_spring_beans_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_spring_context_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_spring_core_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_spring_expression_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_spring_messaging_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_spring_test_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_spring_tx_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_spring_web_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_spring_webflux_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StduyOnLine/XcEduCode/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_common/src/main/java/com/pinyougou/common/util/CookieUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_content_interface/src/main/java/com/pinyougou/content/service/ContentCategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_content_interface/src/main/java/com/pinyougou/content/service/ContentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_shop_web/src/main/resources/properties/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data/.idea/libraries/Maven__javax_el_javax_el_api_2_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data/.idea/libraries/Maven__log4j_log4j_1_2_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data/.idea/libraries/Maven__org_aspectj_aspectjrt_1_8_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data/.idea/libraries/Maven__org_glassfish_web_javax_el_2_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_11_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_1_9_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data/.idea/libraries/Maven__org_springframework_spring_test_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data/spring-data-jpa-on2many/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data/spring-data-jpa/src/main/java/cn/itcast/dao/CustomerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data/spring-data-jpa/src/main/java/cn/itcast/domain/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data/spring-data-jpa/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-data/spring-data-jpa/src/test/java/cn/itcast/test/CustomerDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_dao/src/main/java/com/pinyougou/mapper/TbBrandMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_dao/src/main/java/com/pinyougou/mapper/TbBrandMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_dao/src/main/java/com/pinyougou/mapper/TbGoodsMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_dao/src/main/java/com/pinyougou/mapper/TbGoodsMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_dao/src/main/java/com/pinyougou/mapper/TbSpecificationMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_dao/src/main/java/com/pinyougou/mapper/TbSpecificationMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_dao/src/main/resources/com/pinyougou/mapper/TbBrandMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_dao/src/main/resources/com/pinyougou/mapper/TbBrandMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_dao/src/main/resources/com/pinyougou/mapper/TbGoodsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_dao/src/main/resources/com/pinyougou/mapper/TbGoodsMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_dao/src/main/resources/com/pinyougou/mapper/TbSpecificationMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_dao/src/main/resources/com/pinyougou/mapper/TbSpecificationMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_dao/src/main/resources/com/pinyougou/mapper/TbSpecificationOptionMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_dao/src/main/resources/com/pinyougou/mapper/TbSpecificationOptionMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/java/com/pinyougou/manager/controller/AddressController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/java/com/pinyougou/manager/controller/BrandController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/java/com/pinyougou/manager/controller/BrandController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/java/com/pinyougou/manager/controller/GoodsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/java/com/pinyougou/manager/controller/GoodsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/java/com/pinyougou/manager/controller/ItemCatController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/java/com/pinyougou/manager/controller/ItemCatController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/java/com/pinyougou/manager/controller/SellerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/java/com/pinyougou/manager/controller/SellerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/java/com/pinyougou/manager/controller/SpecificationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/java/com/pinyougou/manager/controller/SpecificationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/resources/config/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/resources/config/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/resources/spring/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/resources/spring/springmvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/admin/brand.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/admin/brand.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/admin/content.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/admin/content.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/admin/content_category.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/admin/goods.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/admin/goods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/admin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/admin/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/admin/item_cat.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/admin/item_cat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/admin/seller_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/admin/seller_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/admin/specification.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/admin/specification.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/admin/type_template.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/admin/type_template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/js/controller/baseController.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/js/controller/baseController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/js/controller/brandController.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/js/controller/brandController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/js/controller/goodsController.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/js/controller/goodsController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/js/controller/itemCatController.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/js/controller/itemCatController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/js/controller/sellerController.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/js/controller/sellerController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/js/controller/specificationController.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/js/controller/specificationController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/js/controller/typeTemplateController.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/js/controller/typeTemplateController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/js/service/brandService.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/js/service/brandService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/js/service/goodsService.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/js/service/goodsService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/js/service/itemCatService.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/js/service/itemCatService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/js/service/sellerService.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/js/service/sellerService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/js/service/specificationService.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/js/service/specificationService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/plugins/select2/angular-select2.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_manager_web/src/main/webapp/plugins/select2/angular-select2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_pojo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_pojo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_pojo/src/main/java/com/pinyougou/pojo/TbItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_pojo/src/main/java/com/pinyougou/pojo/TbItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_sellergoods_interface/src/main/java/com/pinyougou/sellergoods/service/BrandService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_sellergoods_interface/src/main/java/com/pinyougou/sellergoods/service/BrandService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_sellergoods_interface/src/main/java/com/pinyougou/sellergoods/service/GoodsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_sellergoods_interface/src/main/java/com/pinyougou/sellergoods/service/GoodsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_sellergoods_interface/src/main/java/com/pinyougou/sellergoods/service/ItemCatService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_sellergoods_interface/src/main/java/com/pinyougou/sellergoods/service/ItemCatService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_sellergoods_interface/src/main/java/com/pinyougou/sellergoods/service/SellerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_sellergoods_interface/src/main/java/com/pinyougou/sellergoods/service/SellerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_sellergoods_interface/src/main/java/com/pinyougou/sellergoods/service/SpecificationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_sellergoods_interface/src/main/java/com/pinyougou/sellergoods/service/SpecificationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_sellergoods_interface/src/main/java/com/pinyougou/sellergoods/service/TypeTemplateService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_sellergoods_interface/src/main/java/com/pinyougou/sellergoods/service/TypeTemplateService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_sellergoods_service/src/main/java/com/pinyougou/sellergoods/service/impl/BrandServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_sellergoods_service/src/main/java/com/pinyougou/sellergoods/service/impl/BrandServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_sellergoods_service/src/main/java/com/pinyougou/sellergoods/service/impl/GoodsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_sellergoods_service/src/main/java/com/pinyougou/sellergoods/service/impl/GoodsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_sellergoods_service/src/main/java/com/pinyougou/sellergoods/service/impl/ItemCatServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_sellergoods_service/src/main/java/com/pinyougou/sellergoods/service/impl/ItemCatServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_sellergoods_service/src/main/java/com/pinyougou/sellergoods/service/impl/SellerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_sellergoods_service/src/main/java/com/pinyougou/sellergoods/service/impl/SellerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_sellergoods_service/src/main/java/com/pinyougou/sellergoods/service/impl/SpecificationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_sellergoods_service/src/main/java/com/pinyougou/sellergoods/service/impl/SpecificationServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_sellergoods_service/src/main/java/com/pinyougou/sellergoods/service/impl/TypeTemplateServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_sellergoods_service/src/main/java/com/pinyougou/sellergoods/service/impl/TypeTemplateServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_sellergoods_service/src/main/resources/spring/applicationContext-service.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_sellergoods_service/src/main/resources/spring/applicationContext-service.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_shop_web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_shop_web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_shop_web/src/main/resources/config/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_shop_web/src/main/resources/spring/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_shop_web/src/main/resources/spring/springmvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_shop_web/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pinyougou_shop_web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pinyougou_shop_web/src/main/webapp/angular.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pinyougouparent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pinyougouparent/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/ssm_dao/target/" />
+    <ignored path="$PROJECT_DIR$/ssm_service/target/" />
+    <ignored path="$PROJECT_DIR$/ssm_controller/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1890079546">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="368" />
+          <entry key="properties" value="103" />
+          <entry key="xml" value="197" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="368" />
+          <entry key="Properties" value="103" />
+          <entry key="XML" value="197" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="4" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="5" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/java/com/itheima/dao/UserDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/resources/applicationContext_dao.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="21" column="62" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssm_service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssm_service/src/main/java/com/itheima/service/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ssm_dao/src/test/java/com/itheima/test/MyBatisTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="485">
+              <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/ssm_dao/src/main/java/com/itheima/domain/User.java" />
+        <option value="$PROJECT_DIR$/ssm_dao/src/main/java/com/itheima/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/ssm_dao/src/main/resources/jdbc.properties" />
+        <option value="$PROJECT_DIR$/ssm_service/pom.xml" />
+        <option value="$PROJECT_DIR$/ssm_dao/src/test/java/com/itheima/test/MyBatisTest.java" />
+        <option value="$PROJECT_DIR$/ssm_dao/src/main/resources/applicationContext_dao.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repository" />
+        <option name="mavenHome" value="D:/develop/maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\develop\maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssm_dao" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ssm_dao" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="950" />
+    <option name="width" value="979" />
+    <option name="height" value="1093" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ssm_myparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm_myparent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_myparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm_myparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_myparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm_myparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_myparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm_myparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_myparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm_myparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_myparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm_myparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ssm_myparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ssm_myparent" type="462c0819:PsiDirectoryNode" />
+              <item name="ssm_service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572136839463" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MyBatisTest.test1">
+    <configuration name="MyBatisTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ssm_dao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.test.MyBatisTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBatisTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ssm_dao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.test" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.test.MyBatisTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MyBatisTest.test1" />
+      <item itemvalue="JUnit.MyBatisTest.test2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyBatisTest.test1" />
+        <item itemvalue="JUnit.MyBatisTest.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4be23370-262c-443f-b66c-0a7f06ec3694" name="Default Changelist" comment="" />
+      <created>1572094205712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572094205712</updated>
+      <workItem from="1572094211520" duration="2283000" />
+      <workItem from="1572136754371" duration="106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MyBatisTest_test1 - 2019.10.26 at 21h 06m 34s.xml">
+      <configuration name="MyBatisTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_test1 - 2019.10.26 at 21h 06m 59s.xml">
+      <configuration name="MyBatisTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_test2 - 2019.10.26 at 21h 09m 51s.xml">
+      <configuration name="MyBatisTest.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_test1 - 2019.10.26 at 21h 15m 29s.xml">
+      <configuration name="MyBatisTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_test1 - 2019.10.26 at 21h 16m 55s.xml">
+      <configuration name="MyBatisTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyBatisTest_test1 - 2019.10.27 at 08h 40m 43s.xml">
+      <configuration name="MyBatisTest.test1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2389000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1563" height="886" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25315616" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32921812" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32921812" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32956812" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ssm_dao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_controller/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/java/com/itheima/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/java/com/itheima/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_service/src/main/java/com/itheima/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_dao/src/main/resources/applicationContext_dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="62" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssm_dao/src/test/java/com/itheima/test/MyBatisTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>ssm_myparent:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ssm_myparent</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: c3p0:c3p0:0.9.1.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
